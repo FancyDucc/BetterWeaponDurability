@@ -1,7 +1,7 @@
 {
   "name": "BetterWeaponDurability",
-  "version_number": "1.0.0",
-  "website_url": "https://github.com/thunderstore-io",
+  "version_number": "1.0.2",
+  "website_url": "https://github.com/FancyDucc/BetterWeaponDurability/tree/BetterWeaponDurability",
   "description": "This mod let's you change melee and gun durability to whatever you want... that's about it 👍",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
